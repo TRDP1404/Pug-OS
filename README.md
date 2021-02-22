@@ -11,5 +11,7 @@ make bulidimg in ./kernel will Make the .img .elf and .psf files
 make run in ./kernel will Run qemu Setup for you VM
 
 Note: git add .
+
 Note: git commit -m Message in ""
+
 Note: git push
