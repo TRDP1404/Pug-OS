@@ -1,0 +1,6 @@
+{
+	"folders": [
+		{	"path": "./gnu-efi/bootloader" 	},
+		{	"path": "./kernel/src"	}
+	]
+}
